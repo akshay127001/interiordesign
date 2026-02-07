@@ -44,7 +44,6 @@ const VideoShowcase = () => {
                         height="100%"
                         className="w-full h-full object-cover"
                         allow="autoplay"
-                        sandbox="allow-scripts allow-same-origin allow-presentation"
                     ></iframe>
 
                     <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
